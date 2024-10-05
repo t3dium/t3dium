@@ -11,14 +11,4 @@
 
 <hr>
 
-<span>
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=t3dium&show_icons=true&locale=en&theme=dark" alt="t3dium" />
-</span>
-
-<span>
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=t3dium&show_icons=true&locale=en&layout=compact&theme=dark" alt="t3dium" />
-</span>
-
-<hr>
-
-<p> <img src="https://komarev.com/ghpvc/?username=t3dium&label=Profile%20views&color=0e75b6&style=flat" alt="t3dium" /> </p>
+I've privated a lot of my older repo's temporarily as looking back on it, I'm not happy with the code quality. Will rewrite them at one point. 
