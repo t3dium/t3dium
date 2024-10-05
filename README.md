@@ -1,16 +1,24 @@
-## Hi there 👋
+- 👋 Hey, I'm Faraz
+- 🌱 Skills: Python, PyQT (for gui apps), web dev, hugo, linux/bash.  
+- 🌱 Currently learning Java, web technologies.
+- 🔭 Interests: Tech, cybersecurity, programming, linux, selfhosting, science/nutrition. 
+- 👀 I use fedora silverblue btw <sub> (and debian for my servers) </sub> 
+- 📫 How to reach me - `<email redacted temporarily due to abuse/spam>`
 
-<!--
-**t3dium/t3dium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+- Personal Website - `<Temporarily removed>`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<span>
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=t3dium&show_icons=true&locale=en&theme=dark" alt="t3dium" />
+</span>
+
+<span>
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=t3dium&show_icons=true&locale=en&layout=compact&theme=dark" alt="t3dium" />
+</span>
+
+<hr>
+
+<p> <img src="https://komarev.com/ghpvc/?username=t3dium&label=Profile%20views&color=0e75b6&style=flat" alt="t3dium" /> </p>
